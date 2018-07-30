@@ -1,0 +1,54 @@
+[2018-06-21 04:01:15][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:01:15]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:02:40][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:02:40]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:02:54][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:02:54]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:13:28][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:13:28]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:13:51][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:13:51]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:14:56][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:14:56]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:14:57][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:14:57]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:18:46][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:18:46]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:19:13][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:19:13]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:22:49][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:22:49]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:23:09][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:23:09]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:23:21][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:23:21]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:24:33][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:24:33]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:26:22][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:26:22]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:27:45][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:27:45]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:29:52][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:29:52]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:30:17][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:30:17]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:30:46][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:30:46]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:31:24][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:31:24]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:31:43][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:31:43]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:37:08][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:37:08]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:39:27][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:39:27]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:42:24][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:42:24]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:45:09][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:45:09]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:46:08][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:46:08]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:46:08][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:46:08]SELECT * FROM contact WHERE `id`='8' 
+[2018-06-21 04:47:37][{"id":"8","ownerid":"1","firstname":"contact_1","middlename":"contact_2","lastname":"contact_3"}]
+[2018-06-21 04:47:37]SELECT * FROM contact WHERE `id`='8' 
